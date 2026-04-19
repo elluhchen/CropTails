@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1776576909
+::res://::1776577345
 icon.svg::CompressedTexture2D/CompressedTexture2D::427094543593492647::1756768832::1756768838::1::::<><><>0<>0<>73f41adcf12c512daedc468071099854<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://assets/::1756769746
 ::res://assets/game/::1756769746
@@ -35,21 +35,22 @@ Tilled_Dirt_Wide_v2.png::CompressedTexture2D/CompressedTexture2D::59133656768575
 Water.png::CompressedTexture2D/CompressedTexture2D::3651806666663524551::1756769354::1756769746::1::::<><><>0<>0<>de704bc24f4d5416ab2d0909515aa6cb<>res://.godot/imported/Water.png-282935f16b38918500e1dc9da05d714e.ctex::
 Wooden_House_Roof_Tilset.png::CompressedTexture2D/CompressedTexture2D::1678588900495392900::1756769354::1756769746::1::::<><><>0<>0<>5ce9a580307d97c957e0f27a652c00d3<>res://.godot/imported/Wooden_House_Roof_Tilset.png-b049c346eaf6ffc48dec2fc0cf58a838.ctex::
 Wooden_House_Walls_Tilset.png::CompressedTexture2D/CompressedTexture2D::2641531653278402968::1756769354::1756769746::1::::<><><>0<>0<>60599e0d213141abc06d54bbebdf3bc6<>res://.godot/imported/Wooden_House_Walls_Tilset.png-e1d5a7d750db8ee38e48ef82609b6534.ctex::
+::res://CropTails Tutorial/::1776576961
 ::res://scenes/::1756784348
 ::res://scenes/characters/::1756772029
 ::res://scenes/characters/player/::1762226584
 chopping_state.gd::GDScript/GDScript::6440024786899506256::1756783506::0::1::::<>NodeState<><>0<>0<><>::
 idle_state.gd::GDScript/GDScript::8464428865952190466::1756784103::0::1::::<>NodeState<><>0<>0<><>::
 player.gd::GDScript/GDScript::6926378799871081119::1756781218::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
-player.tscn::PackedScene::2047158549576154994::1762226584::0::1::::<><><>0<>0<><>::uid://c5xgpgucghgi6::::res://scenes/characters/player/player.gd<>uid://cd5wl4j55ss0y::::res://assets/game/characters/basic_character_sprites.png<>uid://dvxmnbduq7jru::::res://assets/game/characters/character_sprites.png<>uid://c2qtxmiyt0p7u::::res://scripts/state_machine/node_state_machine.gd<>uid://dsuh53hbu0o0q::::res://scenes/characters/player/idle_state.gd<>uid://dm5p5m5nlyf67::::res://scenes/characters/player/walk_state.gd<>uid://cx0ujdbtgllrk::::res://scenes/characters/player/chopping_state.gd<>uid://ckaisw5o0ic2k::::res://scenes/characters/player/tilling_state.gd<>uid://cwa313w6ff1ot::::res://scenes/characters/player/watering_state.gd
+player.tscn::PackedScene/PackedScene::2047158549576154994::1762226584::0::1::::<><><>0<>0<><>::uid://c5xgpgucghgi6::::res://scenes/characters/player/player.gd<>uid://cd5wl4j55ss0y::::res://assets/game/characters/basic_character_sprites.png<>uid://dvxmnbduq7jru::::res://assets/game/characters/character_sprites.png<>uid://c2qtxmiyt0p7u::::res://scripts/state_machine/node_state_machine.gd<>uid://dsuh53hbu0o0q::::res://scenes/characters/player/idle_state.gd<>uid://dm5p5m5nlyf67::::res://scenes/characters/player/walk_state.gd<>uid://cx0ujdbtgllrk::::res://scenes/characters/player/chopping_state.gd<>uid://ckaisw5o0ic2k::::res://scenes/characters/player/tilling_state.gd<>uid://cwa313w6ff1ot::::res://scenes/characters/player/watering_state.gd
 tilling_state.gd::GDScript/GDScript::5475248886526603448::1756783925::0::1::::<>NodeState<><>0<>0<><>::
 walk_state.gd::GDScript/GDScript::8064424513296773474::1756779163::0::1::::<>NodeState<><>0<>0<><>::
 watering_state.gd::GDScript/GDScript::6318743939916810927::1756784103::0::1::::<>NodeState<><>0<>0<><>::
 ::res://scenes/houses/::1762226584
-large_house.tscn::PackedScene::5637384659842176972::1762226584::0::1::::<><><>0<>0<><>::uid://bweoq1mjour54::::res://Tilesets/house_tile_set.tres
+large_house.tscn::PackedScene/PackedScene::5637384659842176972::1762226584::0::1::::<><><>0<>0<><>::uid://bweoq1mjour54::::res://Tilesets/house_tile_set.tres
 ::res://scenes/test/::1762226584
 test_scene_default.tscn::PackedScene/PackedScene::70874733404611981::1756784103::0::1::::<><><>0<>0<><>::uid://bodwvx2vx3vkc::::res://Tilesets/game_tile_set.tres
-test_scene_house.tscn::PackedScene::8669690587132611099::1762226584::0::1::::<><><>0<>0<><>::uid://bodwvx2vx3vkc::::res://Tilesets/game_tile_set.tres<>uid://4fwnw71jmxks::::res://scenes/characters/player/player.tscn
+test_scene_house.tscn::PackedScene/PackedScene::8669690587132611099::1762226584::0::1::::<><><>0<>0<><>::uid://bodwvx2vx3vkc::::res://Tilesets/game_tile_set.tres<>uid://4fwnw71jmxks::::res://scenes/characters/player/player.tscn
 test_scene_player.tscn::PackedScene/PackedScene::4162178895603721912::1756784103::0::1::::<><><>0<>0<><>::uid://bodwvx2vx3vkc::::res://Tilesets/game_tile_set.tres<>uid://4fwnw71jmxks::::res://scenes/characters/player/player.tscn
 test_scene_tilemap.tscn::PackedScene/PackedScene::8139268691338570516::1756784103::0::1::::<><><>0<>0<><>::uid://bodwvx2vx3vkc::::res://Tilesets/game_tile_set.tres
 ::res://scripts/::1756780516
@@ -60,5 +61,5 @@ data_types.gd::GDScript/GDScript::3538165510917323679::1756780799::0::1::::DataT
 node_state.gd::GDScript/GDScript::6862284758893643811::1756780490::0::1::::NodeState<>Node<><>0<>0<><>::
 node_state_machine.gd::GDScript/GDScript::6702165529555886984::1756773023::0::1::::NodeStateMachine<>Node<><>0<>0<><>::
 ::res://Tilesets/::1762226481
-game_tile_set.tres::TileSet::3376632154133376090::1762226481::0::1::::<><><>0<>0<><>::uid://cmk15wna0i1cq::::res://scenes/houses/large_house.tscn<>uid://bsa7ys642qq44::::res://assets/game/tilesets/Water.png<>uid://pdre8t0ac2vp::::res://assets/game/tilesets/Grass.png<>uid://4mpdv8saeql0::::res://assets/game/tilesets/Tilled_Dirt_Wide.png<>uid://dvwkac236s8tx::::res://assets/game/objects/basic_grass_biom_things.png
-house_tile_set.tres::TileSet::3939712749920452477::1762226481::0::1::::<><><>0<>0<><>::uid://bdvtv1kfoi54g::::res://assets/game/tilesets/Wooden_House_Walls_Tilset.png<>uid://ccdc8ce1em2hn::::res://assets/game/objects/basic_furniture.png
+game_tile_set.tres::TileSet/TileSet::3376632154133376090::1762226481::0::1::::<><><>0<>0<><>::uid://cmk15wna0i1cq::::res://scenes/houses/large_house.tscn<>uid://bsa7ys642qq44::::res://assets/game/tilesets/Water.png<>uid://pdre8t0ac2vp::::res://assets/game/tilesets/Grass.png<>uid://4mpdv8saeql0::::res://assets/game/tilesets/Tilled_Dirt_Wide.png<>uid://dvwkac236s8tx::::res://assets/game/objects/basic_grass_biom_things.png
+house_tile_set.tres::TileSet/TileSet::3939712749920452477::1762226481::0::1::::<><><>0<>0<><>::uid://bdvtv1kfoi54g::::res://assets/game/tilesets/Wooden_House_Walls_Tilset.png<>uid://ccdc8ce1em2hn::::res://assets/game/objects/basic_furniture.png
